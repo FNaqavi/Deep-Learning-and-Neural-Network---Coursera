@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+dir_to_ignore/convolutional_neural_network/images
+dir_to_ignore/Improving_deep_neural_networks_Hyperparameter_tunning_regularization_and_optimization/images
+dir_to_ignore/neural_networks_and_deep_learning/images
+dir_to_ignore/sequence_models/images
